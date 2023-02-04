@@ -1,0 +1,11 @@
+name: testplugin
+main: one.lff.Plugin
+version: 1.0
+api-version: 1.15
+description: test-plugin xD
+authors: ["LFF5644"]
+commands:
+  test:
+    description: Test Command
+    usage: /test
+    alias: [test]
